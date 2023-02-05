@@ -63,7 +63,7 @@ class cfgWeapons
 	class RifleCore;
 	class Rifle_Base: RifleCore
 	{
-		inventorySlot[]=
+		inventorySlot[]+=
 		{
 			"Shoulder",
 			"Melee",
